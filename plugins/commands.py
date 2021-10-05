@@ -12,17 +12,14 @@ async def start(c, m):
 
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')},
-
-** I am Yuji Itadori Stylish Font Bot ✍️**
-
+** I am Stylish Font Bot ✍️**
 `I can help you to get stylish fonts. Just send me some text and see magic.`
-
-** Developed by :** ❤️ ▷ [Prachi](https://t.me/MikuNkano04)
+** Developer by :** ❤️ ▷ [@ZauteKm](https://t.me/ZauteKm/346)
 """
 
     # Buttons
     buttons = [
-        [
+     [
             InlineKeyboardButton('⚙️ Support ⚙️', url=f"https://t.me/sukuna_support")
             InlineKeyboardButton('PLEXUS GALAXY', url=f"https://t.me/plexus_Galaxy")
             ],[
