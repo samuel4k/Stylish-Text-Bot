@@ -17,20 +17,20 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-** Developer by :** ❤️ ▷ [Prachi](https://t.me/MikuNkano04)
+** Developed by :** ❤️ ▷ [Prachi](https://t.me/MikuNkano04)
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('👥 Group', url=f"https://t.me/iZaute/5"),
-            InlineKeyboardButton('Channel 📢', url=f"https://t.me/iZaute/6")
+            InlineKeyboardButton('⚙️ Support ⚙️', url=f"https://t.me/sukuna_support")
+            InlineKeyboardButton('PLEXUS GALAXY', url=f"https://t.me/plexus_Galaxy")
             ],[
-            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/iZaute/8"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/ZauteKm")
+            InlineKeyboardButton('🎗 Credit 🎗', url=f"https://t.me/MikuNakano04"),
+            InlineKeyboardButton(' Updates ', url=f"https://t.me/plexus_bots_updates"),
+            InlineKeyboardButton('Stream Anime', url=f"https://t.me/AnimeWorldPlexus")
             ],[
-            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/c/ZauteKm")
+            InlineKeyboardButton('⚜️ Join Plexus ⚜️', url=f"https://t.me/anime_plexus_chat")
         ]
     ]
     await m.reply_text(
