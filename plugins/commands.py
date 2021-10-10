@@ -110,7 +110,7 @@ async def nxt(c, m):
             InlineKeyboardButton('S̶t̶r̶i̶k̶e̶', callback_data='style+strike'),
             InlineKeyboardButton('F༙r༙o༙z༙e༙n༙', callback_data='style+frozen'),
             ],[
-            InlineKeyboardButton('F༙r༙o༙z༙e༙n༙', callback_data='style+frozen'),
+            InlineKeyboardButton('YK Tex', callback_data='style+yk_text'),
             InlineKeyboardButton('⬅️ Back', callback_data='nxt+0')
         ]]
         await m.answer()
