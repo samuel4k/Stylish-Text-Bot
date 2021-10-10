@@ -2185,7 +2185,7 @@ class Fonts:
             text = text.replace(i, j)
         return text
 
-    def YK text(text):
+    def yk_text(text):
         style = {
             'a': 'ል',
             'b': 'ጌ',
