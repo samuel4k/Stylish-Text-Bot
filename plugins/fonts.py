@@ -2185,7 +2185,7 @@ class Fonts:
             text = text.replace(i, j)
         return text
 
-    def rvnes(text):
+    def YK text(text):
         style = {
             'a': 'ል',
             'b': 'ጌ',
