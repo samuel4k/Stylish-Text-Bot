@@ -21,7 +21,7 @@ async def start(c, m):
     buttons = [
      [
             InlineKeyboardButton('⚙️ Support ⚙️', url=f"https://t.me/sukuna_support")
-            InlineKeyboardButton('Warlord Network', url=f"https://t.me/Weebs_Complex")
+           InlineKeyboardButton(' Updates ', url=f"https://t.me/plexus_bots_updates")
             ],[
             InlineKeyboardButton('🎗 Credit 🎗', url=f"https://t.me/GhostRileyXD"),
             InlineKeyboardButton(' Updates ', url=f"https://t.me/plexus_bots_updates"),
