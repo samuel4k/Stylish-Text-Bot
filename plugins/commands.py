@@ -196,7 +196,7 @@ async def style(c, m):
         cls = Fonts.skyline
     if style == 'arrows':
         cls = Fonts.arrows
-    if style == 'qvnes':
+    if style == 'yktext':
         cls = Fonts.yk_text
     if style == 'strike':
         cls = Fonts.strike
