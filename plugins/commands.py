@@ -194,7 +194,7 @@ async def style(c, m):
     if style == 'arrows':
         cls = Fonts.arrows
     if style == 'qvnes':
-        cls = Fonts.rvnes
+        cls = Fonts.yk_text
     if style == 'strike':
         cls = Fonts.strike
     if style == 'frozen':
