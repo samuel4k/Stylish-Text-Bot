@@ -12,22 +12,22 @@ async def start(c, m):
 
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')},
-** I am Stylish Font Bot ✍️**
+** I am Riley Stylish Font Bot ✍️**
 `I can help you to get stylish fonts. Just send me some text and see magic.`
-** Developer by :** ❤️ ▷ [@ZauteKm](https://t.me/ZauteKm/346)
+** Developer by :** ❤️ ▷ [@GhostRileyXD](https://t.me/GhostRileyXD)
 """
 
     # Buttons
     buttons = [
      [
             InlineKeyboardButton('⚙️ Support ⚙️', url=f"https://t.me/sukuna_support")
-            InlineKeyboardButton('PLEXUS GALAXY', url=f"https://t.me/plexus_Galaxy")
+            InlineKeyboardButton('Warlord . Network', url=f"https://t.me/WarlordNetwork")
             ],[
-            InlineKeyboardButton('🎗 Credit 🎗', url=f"https://t.me/MikuNakano04"),
+            InlineKeyboardButton('🎗 Credit 🎗', url=f"https://t.me/GhostRileyXD"),
             InlineKeyboardButton(' Updates ', url=f"https://t.me/plexus_bots_updates"),
             InlineKeyboardButton('Stream Anime', url=f"https://t.me/AnimeWorldPlexus")
             ],[
-            InlineKeyboardButton('⚜️ Join Plexus ⚜️', url=f"https://t.me/anime_plexus_chat")
+            InlineKeyboardButton('⚜️ Join Anime complex ⚜️', url=f"https://t.me/Weebs_Complex")
         ]
     ]
     await m.reply_text(
